@@ -22,7 +22,7 @@ I am a professional software engineer with over 5 years of experience, previousl
   1. Web Development 
   2. Linux Application 
   3. Distributed System
-  4. VOIP System
+  4. VoIP System
   5. AI/ML
   6. Data Analytics
 
