@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **JustinQHu/JustinQHu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hi, I'm Justin 
+
+I am a professional software engineer with over 5 years of experience, previously working at companies like *Huawei* and *Nokia*
+
+## My Experience:
+  1. Web Development 
+  2. Linux Application 
+  3. Distributed System
+  4. VOIP System
+  5. AI/ML
+  6. Data Analytics
+
+## My favourite languages:
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-Java-C14438?style=flat-square&logo=Java)
+![C++](https://img.shields.io/badge/-C%2B%2B-yellow?style=flat-square&logo=C++)
+![JavaScript](https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=JavaScript)
+
+## Frequetly Used Technical Stack:
+![Django](https://img.shields.io/badge/-Django-green?tyle=flat-square&logo=Django)
+![Spring](https://img.shields.io/badge/-Spring-yellow?tyle=flat-square&logo=Spring)
+![React](https://img.shields.io/badge/-React-informational?tyle=flat-square&logo=React)
+
+## My GitHUb Stats
+ 
+[![Justin Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinQHu&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
