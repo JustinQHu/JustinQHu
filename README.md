@@ -37,6 +37,9 @@ I am a professional software engineer with over 5 years of experience, previousl
 ![Django](https://img.shields.io/badge/-Django-green?tyle=flat-square&logo=Django)
 ![Spring](https://img.shields.io/badge/-Spring-yellow?tyle=flat-square&logo=Spring)
 ![React](https://img.shields.io/badge/-React-informational?tyle=flat-square&logo=React)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brightgreen?tyle=flat-square&logo=PostgreSQL)
+![Redic](https://img.shields.io/badge/-Redis-9cf?tyle=flat-square&logo=Redis)
+
 
 ## My GitHub Stats
  
