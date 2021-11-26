@@ -48,7 +48,7 @@ I am a professional software engineer with over 5 years of experience, previousl
 ## Reach Out to Me
 Feel free to reach out to me anytime!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Endreas%20Yohannes-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justin-hu-real/)
-[![Gmail Badge](https://img.shields.io/badge/-endreasy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:justinhu.real@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-JustinHu-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justin-hu-real/)
+[![Gmail Badge](https://img.shields.io/badge/-justinhu.real%40gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:justinhu.real@gmail.com)
 
 
