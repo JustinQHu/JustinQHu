@@ -26,7 +26,7 @@ I am a professional software engineer with over 5 years of experience, previousl
   5. AI/ML
   6. Data Analytics
 
-## My favourite languages
+## Favourite Languages
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-C14438?style=flat-square&logo=Java)
