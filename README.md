@@ -44,3 +44,11 @@ I am a professional software engineer with over 5 years of experience, previousl
 ## My GitHub Stats
  
 [![Justin Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinQHu&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+## Reach Out to Me
+Feel free to reach out to me anytime!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Endreas%20Yohannes-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justin-hu-real/)
+[![Gmail Badge](https://img.shields.io/badge/-endreasy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:justinhu.real@gmail.com)
+
+
