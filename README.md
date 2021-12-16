@@ -31,6 +31,7 @@ I am a professional software engineer with over 5 years of experience, previousl
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-C14438?style=flat-square&logo=Java)
 ![C++](https://img.shields.io/badge/-C%2B%2B-yellow?style=flat-square&logo=C++)
+![Haskell](https://img.shields.io/badge/-Haskell-blueviolet?style=flat-square&logo=Haskell)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-00599C?style=flat-square&logo=JavaScript)
 
 ## Frequetly Used Technical Stack
