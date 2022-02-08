@@ -25,6 +25,7 @@ I am a professional software engineer with over 5 years of experience, previousl
   4. VoIP System
   5. AI/ML
   6. Data Analytics
+  7. Web Scraping
 
 ## Favourite Languages
 
