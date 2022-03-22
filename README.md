@@ -42,6 +42,9 @@ I am a professional software engineer with over 5 years of experience, previousl
 ![jQuery](https://img.shields.io/badge/-jQuery-blue?tyle=flat-square&logo=jQuery)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-brightgreen?tyle=flat-square&logo=PostgreSQL)
 ![Redic](https://img.shields.io/badge/-Redis-9cf?tyle=flat-square&logo=Redis)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-scikit--learn-important?tyle=flat-square&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/Numpy-Numpy-success?tyle=flat-square&logo=Numpy)
+![Pandas](https://img.shields.io/badge/Pandas-Pandas-informational?tyle=flat-square&logo=Pandas)
 
 
 ## My GitHub Stats
