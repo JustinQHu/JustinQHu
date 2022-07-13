@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Justin 
 
-I am a professional software engineer with over 5 years of experience, previously working at companies like *Huawei* and *Nokia*
+I am a professional software engineer with about 6 years of experience, previously working at companies like *Huawei* and *Nokia*
 
 ## My Experience
   1. Web Development 
