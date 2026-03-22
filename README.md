@@ -47,10 +47,6 @@ I am a professional software engineer with about 6 years of experience, previous
 ![Pandas](https://img.shields.io/badge/Pandas-Pandas-informational?tyle=flat-square&logo=Pandas)
 
 
-## My GitHub Stats
- 
-[![Justin Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustinQHu&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Reach Out to Me
 Feel free to reach out to me anytime!
 
